@@ -1,1 +1,1 @@
-Fullstack news blog
+Fullstack news blog (backend)
